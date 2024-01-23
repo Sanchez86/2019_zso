@@ -68,7 +68,7 @@
 	 display: block;
 	 width: 12px;
 	 height: 20px;
-	 background-image: url("../img/_src/arrow-right.png");
+	 background-image: url("../img/src/arrow-right.png");
 	 transform: rotateZ(-90deg);
 	 background-position: center;
 	 background-size: contain;
@@ -80,7 +80,7 @@
 	 background-color: var('--white');
 }
  #top:hover i {
-	 background-image: url("../img/_src/arrow-right-blue.png");
+	 background-image: url("../img/src/arrow-right-blue.png");
 }
  b, strong {
 	 font-weight: bold;
@@ -170,7 +170,7 @@
 	 height: 100%;
 }
  .slider .blue-block-img {
-	 background-image: url("../img/_src/noga.png");
+	 background-image: url("../img/src/noga.png");
 	 background-position: right;
 	 background-repeat: no-repeat;
 }
@@ -197,10 +197,10 @@
 	 transition: opacity 0.3s;
 }
  .slider .carousel-control-next {
-	 background-image: url("../img/_src/arrow-right-red.png");
+	 background-image: url("../img/src/arrow-right-red.png");
 }
  .slider .carousel-control-prev {
-	 background-image: url("../img/_src/arrow-left-red.png");
+	 background-image: url("../img/src/arrow-left-red.png");
 }
  .slider .carousel-control-next:hover, .slider .carousel-control-prev:hover {
 	 opacity: 0.5;
@@ -550,13 +550,13 @@
 	 left: -109px;
 }
  .carousel .owl-prev span {
-	 background-image: url('../img/_src/arrow-left-red.png');
+	 background-image: url('../img/src/arrow-left-red.png');
 }
  .carousel .owl-next {
 	 right: -109px;
 }
  .carousel .owl-next span {
-	 background-image: url('../img/_src/arrow-right-red.png');
+	 background-image: url('../img/src/arrow-right-red.png');
 }
 /*.carousel*/
 /*.carousel-prosthesis*/
@@ -637,7 +637,7 @@
 	 margin-bottom: 29px;
 }
  .contact__bg1 {
-	 background-image: url("../img/_src/contact2.png");
+	 background-image: url("../img/src/contact2.png");
 	 background-repeat: no-repeat;
 	 padding: 95px 79px;
 }
